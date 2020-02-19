@@ -1,4 +1,4 @@
-package com.example.seeker;
+package com.nowmagnate.seeker;
 
 import org.junit.Test;
 

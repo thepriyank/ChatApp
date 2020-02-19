@@ -1,42 +1,42 @@
 {
   "project_info": {
-    "project_number": "877466832092",
-    "firebase_url": "https://card-scan-2242b.firebaseio.com",
-    "project_id": "card-scan-2242b",
-    "storage_bucket": "card-scan-2242b.appspot.com"
+    "project_number": "193206592627",
+    "firebase_url": "https://seeker-e929e.firebaseio.com",
+    "project_id": "seeker-e929e",
+    "storage_bucket": "seeker-e929e.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:877466832092:android:417e39fc43184a2a81f819",
+        "mobilesdk_app_id": "1:193206592627:android:bba79522fd32683185b606",
         "android_client_info": {
-          "package_name": "com.nowmagnate.cardscan"
+          "package_name": "com.example.chatapp"
         }
       },
       "oauth_client": [
         {
-          "client_id": "877466832092-ls9te1u3kaca871616v0mi6p6g6nagal.apps.googleusercontent.com",
+          "client_id": "193206592627-e3pibiqm3bcocn53m94rgrekh36j1b5h.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.nowmagnate.cardscan",
-            "certificate_hash": "01d9d591fbe98464006ff12b63c1661d47178914"
+            "package_name": "com.example.chatapp",
+            "certificate_hash": "771c09bfea08fdad56e34b7629852b8a91acb601"
           }
         },
         {
-          "client_id": "877466832092-ps6s5li2uam6c4lp2f2jqa49ch5p8pua.apps.googleusercontent.com",
+          "client_id": "193206592627-p951qop4v3opukpeqtqdob4kqkdq7ins.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyB7Wri80hCBjhgpYL53QBJCgaKtC2hW2RE"
+          "current_key": "AIzaSyAGABWpo3EaKti_1FWMS3Ml2FsvHGsIgNw"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "877466832092-ps6s5li2uam6c4lp2f2jqa49ch5p8pua.apps.googleusercontent.com",
+              "client_id": "193206592627-p951qop4v3opukpeqtqdob4kqkdq7ins.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
@@ -45,35 +45,35 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:877466832092:android:db60a924a914a21581f819",
+        "mobilesdk_app_id": "1:193206592627:android:a3d552f813e4069285b606",
         "android_client_info": {
           "package_name": "com.nowmagnate.seeker"
         }
       },
       "oauth_client": [
         {
-          "client_id": "877466832092-78t396gnvuhut7k0grign8s3shrk36lr.apps.googleusercontent.com",
+          "client_id": "193206592627-m5tq66n7irqs4lovu5vibq86ubspq23i.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.nowmagnate.seeker",
-            "certificate_hash": "771c09bfea08fdad56e34b7629852b8a91acb601"
+            "certificate_hash": "01d9d591fbe98464006ff12b63c1661d47178914"
           }
         },
         {
-          "client_id": "877466832092-ps6s5li2uam6c4lp2f2jqa49ch5p8pua.apps.googleusercontent.com",
+          "client_id": "193206592627-p951qop4v3opukpeqtqdob4kqkdq7ins.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyB7Wri80hCBjhgpYL53QBJCgaKtC2hW2RE"
+          "current_key": "AIzaSyAGABWpo3EaKti_1FWMS3Ml2FsvHGsIgNw"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "877466832092-ps6s5li2uam6c4lp2f2jqa49ch5p8pua.apps.googleusercontent.com",
+              "client_id": "193206592627-p951qop4v3opukpeqtqdob4kqkdq7ins.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
